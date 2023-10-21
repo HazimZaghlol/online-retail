@@ -1,6 +1,6 @@
 # Online Retail
 
-Welcome to the Airbnb Exploratory Data Analysis (EDA) project repository! In this project, we will perform an analysis of Airbnb listings data for a specific city, focusing on various factors such as price, availability, location, and property type. The goal of this analysis is to identify trends and patterns in the demand for Airbnb listings within the chosen city.
+The aim of this machine learning project is to perform customer segmentation for an online retail business. Customer segmentation involves dividing a customer base into distinct groups based on shared characteristics, behaviors, or preferences. By effectively segmenting customers, businesses can gain valuable insights and tailor their marketing strategies to specific customer groups, leading to improved customer satisfaction and increased profitability
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ Welcome to the Airbnb Exploratory Data Analysis (EDA) project repository! In thi
 - [Statistical Analysis](#statistical-analysis)
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
-The purpose of this project is to delve into the Airbnb listings data of a specific city and extract meaningful insights to understand the dynamics of the short-term rental market. By employing exploratory data analysis techniques, we aim to uncover hidden trends, relationships, and patterns that could influence the demand for Airbnb listings.
+The purpose of this project is is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 ## Getting Started
 
@@ -32,21 +32,20 @@ To replicate and run this project locally, you need to have the following tools 
 - Pandas
 - Matplotlib
 - Seaborn
-- plotly
-- ipyleaflet
+
 
 ### Installation
 
 1. Clone this repository to your local machine using:
 
    ```
-   git clone https://github.com/HazimZaghlol/Airbnb-listing-EDA.git
+   git clone https://github.com/HazimZaghlol/online-retail.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd Airbnb-listing-EDA
+   cd online-retail
    ```
 
 
@@ -79,16 +78,4 @@ In the conclusion section, we will provide a summary of the project's outcomes a
 
 Contributions to this project are welcome! If you'd like to contribute, feel free to open issues for suggestions or bugs, and submit pull requests with improvements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
----
-
 Thank you for your interest in the Airbnb Exploratory Data Analysis project. We hope you find the insights and findings valuable and informative. Happy analyzing! 📊🏠
--Jupyter Notebook
--Pandas
--Matplotlib
--Seaborn
--ipyleaflet
--plotly
