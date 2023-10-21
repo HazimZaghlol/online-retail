@@ -30,8 +30,11 @@ To replicate and run this project locally, you need to have the following tools 
 - Python (3.x recommended)
 - Jupyter Notebook
 - Pandas
+- numpy
 - Matplotlib
 - Seaborn
+- sklearn
+- pycaret(optional)
 
 
 ### Installation
